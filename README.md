@@ -1,6 +1,6 @@
 ### Olá! me Chamo Gabriela👋
 
-- 🌱 Estudando Java
+- 🌱 Estudante de Ciência da Computação
 - 📫 Contate-me no E-mail: gabi.c.gasparotto@gmail.com
 - 😄 Pronomes: Ela/Dela
 
