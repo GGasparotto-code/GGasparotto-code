@@ -15,7 +15,7 @@
   <img align="center" alt=GGasparotto-code-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-<img align="right" alt="GGasparotto-code-pic" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/1103677591094841434/1103677591094841437/1103677725195116564">
+<img align="right" alt="GGasparotto-code-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1hAueDRU2Bg0kgg_7lULIVSsjR3NR38c3/view?usp=share_link">
 
   ##
   
