@@ -15,7 +15,7 @@
   <img align="center" alt=GGasparotto-code-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-<img align="right" alt="GGasparotto-code-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/2Wu-rAEtXFTK-SHmR6Ylryy4x1lAqpRTqgtkXzaljKge-0WWKPNAxWrc3ew8KujD7qKmYutozH0F0k-BJ9zGqszcZo-mCYZKRVFz0uI8Ut5YKcsQQIRUsZZiVTsauBsZgdTThl5bZOeuGp6PhABr1WW6zdP_LMDjtyPvfrq48NCY68AlJEGiUboTRvGFc76Jkcks4GFSh-ppbvdmwGmrmerab08736ohwjNh6O58DGQt8jcO7Kfk059rM9Khe1Sblpi8eQbXDh8n-uFeT9TprGch0600uk-7hewe3e40wLOtF67m1CQLos2xqjY-8vcMfSaU1LYtYYHGIJ0uV_XIMH-eTOH6ClZRbXQduV5PABbOn-_pPLXcM73D2Whrq40_cvgqFg2PlcOxfgItZnvOSlsKhLjTogF6loNHmatr-7pVuKRlHzrbaM52D1Mxsmnvi47Zmkc0CpWx7foo71dOdZ1IMfUfZ4QACJbFRI5p0X6a_4AYUzecuSe6WlOT9thdpOUyj3NlUgbRKio9c6MNJZDyhiiDW9ZF7b4KFbiecrdsyTNM9KaV4aIrySvPL_72OTA_6WOEoYhDRyrPsZNcrM-ZBLzekhBsBhvgcSy0WVm0QWZMRko2ivIbI4r8Lw-1jx_2k1jVkYF4gAFTMdfabnqlzFW62BmfjDqbmBEAnijSirnruOVp1yUmN7EEb1hb98qYhcUtUaUcyN4ZkUbwBePAQQAcs20Z6jO9ET3EPprUlOJ6wwwj-fj-uPCl0ow8wBUspwJuk2tk-g6MUO8mO3Tw3_z8mM0Uel8h6bioRSBwu-8Y_HncrgQuW38RGjcxeoeh84VAIEa7gtgoxOYZuydk_bMoX31F0hubPJVMSw3J9a5IoVecCsOASj27zlSNMx4mFZQEUwknIDeMd8g7nNOkWpsqbTPiYm75jV7FIPmDZimi=w600-h600-s-no?authuser=0">
+<img align="right" alt="GGasparotto-code-pic" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/1103677591094841434/1103677591094841437/1103677725195116564">
 
   ##
   
