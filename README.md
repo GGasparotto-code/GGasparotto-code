@@ -4,7 +4,7 @@
 - 📫 Contate-me no E-mail: gabi.c.gasparotto@gmail.com
 - 😄 Pronomes: Ela/Dela
 
-![GGasparotto-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGasparotto-code&show_icons=true&theme=onedark)
+![GGasparotto-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGasparotto-code&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GGasparotto-code-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
