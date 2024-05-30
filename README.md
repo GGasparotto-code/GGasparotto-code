@@ -2,9 +2,18 @@
 
 <p align="center">Olá Me chamo Gabriela👋</p>
 
-- 🌱 Estudante de Ciência da Computação
-- 📫 Contate-me no E-mail: gabi.c.gasparotto@gmail.com
-- 😄 Pronomes: Ela/Dela
+<table>
+  <tr>
+    <td valign="middle">
+      <img align="center" alt="GIF" src="https://github.com/GGasparotto-code/GGasparotto-code/blob/main/GitGif.gif" width="150" height="150" />
+    </td>
+    <td valign="middle">
+      - 🌱 Estudante de Ciência da Computação<br>
+      - 📫 Contate-me no E-mail: gabi.c.gasparotto@gmail.com<br>
+      - 😄 Pronomes: Ela/Dela
+    </td>
+  </tr>
+</table>
 
 ![GGasparotto-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGasparotto-code&show_icons=true&theme=radical)
 <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGasparotto-code&theme=radical&layout=compact" />
