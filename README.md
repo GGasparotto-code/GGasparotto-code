@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84A9F3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85AEFF&height=120&section=header"/>
 
 <p align="center">Olá! me Chamo Gabriela👋</p>
 
