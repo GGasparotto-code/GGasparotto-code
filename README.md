@@ -24,7 +24,6 @@
 <div> 
   <img align="left" alt="GIF" src="https://github.com/GGasparotto-code/GGasparotto-code/blob/main/GitGif.gif" width="120" height="120" />
 
-  <span style="margin-left: 10px;"></span>
   <a href = "mailto:gabi.c.gasparotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-cavalari-gasparotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
