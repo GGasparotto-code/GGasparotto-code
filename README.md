@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85AEFF&height=120&section=header"/>
 
+<img align="right" alt="GIF" src="https://github.com/GGasparotto-code/GGasparotto-code/blob/main/GitGif.gif" width="120" height="120" />
+
 <p align="center">Olá! Me chamo Gabriela👋</p>
 
 - 🌱 Estudante de Ciência da Computação<br>
