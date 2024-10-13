@@ -1,25 +1,31 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85AEFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e379f&height=120&section=header"/>
 
-<p align="center">Olá! Me chamo Gabriela👋</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e86af0&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Gabriela👋;Seja+Bem+Vindo!)](https://git.io/typing-svg)
 
 - 🌱 Estudante de Ciência da Computação<br>
 - 📫 Contate-me no E-mail: gabi.c.gasparotto@gmail.com<br>
 - 😄 Pronomes: Ela/Dela
 
-![GGasparotto-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGasparotto-code&show_icons=true&theme=radical)
-![GGasparotto-code's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GGasparotto-code&theme=radical&layout=compact)
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="GGasparotto-code-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GGasparotto-code-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GGasparotto-code-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GGasparotto-code-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt=GGasparotto-code-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt=GGasparotto-code-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<div align=center>
+  
+![GGasparotto-code's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GGasparotto-code&theme=tokyonight&hide_border=true)
+![GGasparotto-code's Stats](https://github-readme-stats.vercel.app/api?username=GGasparotto-code&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+![GGasparotto-code's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GGasparotto-code&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </div>
 
-  ##
+<hr>
+<div align="center">
+
+### Skills:
+    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,py,java,mysql,vscode" />
+  </a>
+</p>
+<hr>
+
+<div> 
 
 <div> 
   <img align="left" alt="GIF" src="https://github.com/GGasparotto-code/GGasparotto-code/blob/main/GitGif.gif" width="120" height="120" />
@@ -28,4 +34,4 @@
   <a href="https://www.linkedin.com/in/gabriela-cavalari-gasparotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D83B7D&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4ea4f1&height=120&section=footer"/>
