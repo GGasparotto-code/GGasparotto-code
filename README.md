@@ -14,11 +14,14 @@
 </div>
 
 <hr>
+
 <div align="center">
 
-### Skills:
+  <img align="center" alt="GIF" src="https://github.com/GGasparotto-code/GGasparotto-code/blob/main/Sonic.gif" width="100" height="100" />
+  
+### Skills:  
     
-<p align="center">
+<p align="center" margin=0>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,py,java,mysql,vscode" />
   </a>
@@ -28,10 +31,14 @@
 <div> 
 
 <div> 
-  <img align="left" alt="GIF" src="https://github.com/GGasparotto-code/GGasparotto-code/blob/main/GitGif.gif" width="120" height="120" />
+<!--   <img align="left" alt="GIF" src="https://github.com/GGasparotto-code/GGasparotto-code/blob/main/GitGif.gif" width="120" height="120" /> -->
+
+### Contato:
 
   <a href = "mailto:gabi.c.gasparotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-cavalari-gasparotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<img align="center" alt="GIF" src="https://github.com/BruninhaG/BruninhaG-code/blob/main/Coding.gif" width="500" height="320" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4ea4f1&height=120&section=footer"/>
