@@ -7,8 +7,8 @@
 - 😄 Pronomes: Ela/Dela
 
 <div align=center>
-  
-![GGasparotto-code's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GGasparotto-code&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GGasparotto-code&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![GGasparotto-code's Stats](https://github-readme-stats.vercel.app/api?username=GGasparotto-code&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 ![GGasparotto-code's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GGasparotto-code&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </div>
