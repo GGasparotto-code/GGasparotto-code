@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e379f&height=120&section=header"/>
 
+<div align="center">
+  <h3>♡⸜(˶˃ ᵕ ˂˶)⸝♡</h3>
+</div>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e86af0&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Gabriela👋;Seja+Bem+Vindo!)](https://git.io/typing-svg)
 
 - 🌱 Estudante de Ciência da Computação<br>
